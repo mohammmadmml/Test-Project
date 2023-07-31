@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Firts editing test in git hub :)))
 
 Sorry I should make another change for testing the pull thing.
+
+I know I know I am making lot of changes here sorry but I should do it hope you dont mind.
